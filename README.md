@@ -4,7 +4,7 @@ This repo contains homework project for "Python Programming" course organized by
 
 ### Homework
 
-![](https://raw.githubusercontent.com/omercengiz/PythonCourse/master/Homework_PythonCourse.png)
+![](https://i.hizliresim.com/Gf9LID.png)
 
 
 #### Community
